@@ -18,16 +18,16 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: W.I. (Bill) Hann World War II Digital Archive
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+#tagline: Digital Collection Magic with Static Web Technologies
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "This digital archive gathers photos, letters, newspaper clippings, and other archival material related to W.I. (Bill) Hann's service and experiences during the Second World War. It features photographs taken in Newfoundland, England, Scotland, Algeria, Tunisia, and Italy, letters sent from Newfoundland, England, and Tunisia, and clippings from Newspapers in Newfoundland, Montreal, and Glasgow. Notable archival documents include W.I. (Bill) Hann's diary, a signed menu from a farewell dinner, and a copy of the 166th Newfoundland Field Regiment's despacthes, among others."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: World War II; military history; Newfoundland
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Christopher Crocker
 
 ##########
 # COLLECTION SETTINGS
