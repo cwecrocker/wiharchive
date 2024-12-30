@@ -8,26 +8,24 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+## About W.I. (Bill) Hann
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+Wilfred Isaiah Hann was born in Grand Falls, Newfoundland on 23 or 24 November, 1918 to Ella May (née Wiseman) and Permanius Hann. Sadly, Ella May died that same week from the Spanish flu. As a result, Wilfred Isaiah (or Bill, as he was known) and his brother Harold, who was just two years old at the time, were adopted by relatives also living in Grand Falls. The couple’s two eldest children, Eric and Elsie, stayed with and were raised by their father, who married Mary Osmond, mother of daughter Dulcie, in 1921. According to undocumented family lore, Bill was actually on the verge of being adopted by an American family when his aunt and uncle, Martha (née Russell) and Chesley Hann, intervened and brought him into their family, which at the time already consisted of four daughters, Edith, Doris, Mary, and Dorcas (or Katherine). Bill’s brother Harold went to live with another of his father’s brothers, Jethro, and his wife Naomi.
 
-## About CollectionBuilder CSV
+At the time of Bill’s birth, Chesley was employed at the Grand Falls Pulp and Paper Mill, though he had served as an edger man in the Newfoundland Forestry Companies in World War I (service number: 8406). Chesley’s brother William, the youngest in the family, served in the Royal Newfoundland Regiment (service number: 1830). He was wounded at Beaumont Hamel on 1 July 1916 and was later killed in action in Belgium on 9 October 1917 at the age of 20. Martha and Chesley, who added another son named Victor to their family in 1920, moved with their children to Corner Brook in 1929 or 1930. Chesley took up work at the town’s pulp and paper mill, which opened in 1925, while Martha continued to be heavily involved in the Lodges of the Ladies’ Orange Benevolent Association. Through her work, she eventually became known to all her Lodge sisters as “Mother of the Lodge.”
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+Following the completion of his schooling at the Corner Brook Public School in 1936, Bill was employed at the Hilltop Store on Broadway, where he would eventually become manager of the store’s men’s and boys’ clothing department. In 1940, however, together with his brothers Harold and Victor, Bill volunteered to enlist in the 57th Heavy Regiment Royal Artillery. Together with the other volunteers from the area, the three brothers departed from Corner Brook by train on 12 May 1940, which was Mother’s Day, for Port-aux-Basques where they would continue their journey overseas.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+Bill, his two brothers, and the other volunteers in the second contingent of Newfoundland recruits arrived in Liverpool on 22 May to join up with their compatriots. After receiving initial training in Sussex, the Newfoundland troops served on coastal defence in Norfolk. Following this, the defensive 57th Heavy Regiment became the offensive 166th Newfoundland Field Regiment and entered into training, first in England and then in Scotland. In June of 1940, a few weeks after Bill and the other volunteers from western and central Newfoundland left for England, the Royal Artillery formed the 59th Newfoundland Heavy Regiment to accommodate new volunteer recruits. The 59th Regiment, which likewise began as a defensive regiment before shifting to an offensive one, remained in England until July 1944, after which they took part in the Battle of Normandy. Following this, they saw action in Belgium, the Netherlands, and Germany until the end of the war in Europe.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+While training in Scotland with the 166th Newfoundland Field Regiment, Bill met Mary Robertson Mann of Glasgow, daughter of Marion (née Provan) and John Mann. Bill’s elder sister Elsie, having married a Scot who later died at sea, was living in Glasgow at the time. Mary Mann was working as a babysitter for Bill’s sister Elsie, which is how the two met. The two married in Glasgow on 8 October 1942 but would not see each other again for two and a half years after the 166th Regiment left for North Africa in January 1943. Bill’s brother Victor would later marry Mary’s younger sister Marion Provan Mann in Scotland after the war on 4 January 1947. They flew from London to Gander, Newfoundland, nine days later, and, like Bill and Mary, settled in Corner Brook.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Bill found found himself in Newfoundland on home leave when the war in Europe ended on 8 May 1945. His wife Mary, whom he had not seen for two and a half years, was still in Scotland. Hann could not gain permission to travel back to Scotland, so Mary secured passage across the Atlantic on the SS Bayano. She departed from Avonmouth along with several other war brides on 12 July 1945.19 The ship intended to dock in Nova Scotia but was diverted to Montreal due to the Bedford Magazine explosion of 18–19 July in the Halifax harbour, which occurred when a barge exploded and set off a chain reaction of explosions and fires. Bill and Mary were finally reunited when the Bayano arrived in Montreal. As Mary later recalled, Bill greeted her with “a great big bunch of roses which he threw, one by one, at me on the ship.” On returning to Newfoundland, Bill had a successful career in the furniture and hotel businesses and served on Corner Brook City Council as both a counsellor and deputy mayor. He and Mary had five children together and celebrated their seventieth wedding anniversary a few months be fore Bill died at the age of 94 on 9 January 2013. Mary died six years later, on 28 January 2019 at the age of 98.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+## About the Archive
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+# {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
