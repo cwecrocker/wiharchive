@@ -6,6 +6,9 @@ permalink: /about.html
 credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
+## About the Archive
+
+This digital archive gathers photos, letters, newspaper clippings, and other archival material related to W.I. (Bill) Hann's service and experiences during the Second World War. It features photographs taken in Newfoundland, England, Scotland, Algeria, Tunisia, and Italy, letters sent from Newfoundland, England, and Tunisia, and clippings from Newspapers in Newfoundland, Montreal, and Glasgow. Notable archival documents include W.I. (Bill) Hann's diary, a signed menu from a farewell dinner, and a copy of the 166th Newfoundland Field Regiment's despatches, among other interesting documents. Apart from the newspaper clippins and one audio clip, the physical archival material belongs to a private family collection. The newspaper clippings are sourced from other digital archives. If you have an question, please contact me, Christopher Crocker, at cwecrocker@mun.ca.
 
 ## About W.I. (Bill) Hann
 
@@ -20,8 +23,6 @@ Bill, his two brothers, and the other volunteers in the second contingent of New
 While training in Scotland with the 166th Newfoundland Field Regiment, Bill met Mary Robertson Mann of Glasgow, daughter of Marion (née Provan) and John Mann. Bill’s elder sister Elsie, having married a Scot who later died at sea, was living in Glasgow at the time. Mary Mann was working as a babysitter for Bill’s sister Elsie, which is how the two met. The two married in Glasgow on 8 October 1942 but would not see each other again for two and a half years after the 166th Regiment left for North Africa in January 1943. Bill’s brother Victor would later marry Mary’s younger sister Marion Provan Mann in Scotland after the war on 4 January 1947. They flew from London to Gander, Newfoundland, nine days later, and, like Bill and Mary, settled in Corner Brook.
 
 Bill found found himself in Newfoundland on home leave when the war in Europe ended on 8 May 1945. His wife Mary, whom he had not seen for two and a half years, was still in Scotland. Hann could not gain permission to travel back to Scotland, so Mary secured passage across the Atlantic on the SS Bayano. She departed from Avonmouth along with several other war brides on 12 July 1945.19 The ship intended to dock in Nova Scotia but was diverted to Montreal due to the Bedford Magazine explosion of 18–19 July in the Halifax harbour, which occurred when a barge exploded and set off a chain reaction of explosions and fires. Bill and Mary were finally reunited when the Bayano arrived in Montreal. As Mary later recalled, Bill greeted her with “a great big bunch of roses which he threw, one by one, at me on the ship.” On returning to Newfoundland, Bill had a successful career in the furniture and hotel businesses and served on Corner Brook City Council as both a counsellor and deputy mayor. He and Mary had five children together and celebrated their seventieth wedding anniversary a few months be fore Bill died at the age of 94 on 9 January 2013. Mary died six years later, on 28 January 2019 at the age of 98.
-
-## About the Archive
 
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
