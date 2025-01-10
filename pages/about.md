@@ -6,6 +6,7 @@ permalink: /about.html
 credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
+---
 ## About the Archive
 
 This digital archive gathers photos, letters, newspaper clippings, and other archival material related to W.I. (Bill) Hann's service and experiences during the Second World War. It features photographs taken in Newfoundland, England, Scotland, Algeria, Tunisia, and Italy, letters sent from Newfoundland, England, and Tunisia, and clippings from Newspapers in Newfoundland, Montreal, and Glasgow. Notable archival documents include W.I. (Bill) Hann's diary, a signed menu from a farewell dinner, and a copy of the 166th Newfoundland Field Regiment's despatches, among other interesting documents. Apart from the newspaper clippins and one audio clip, the physical archival material belongs to a private family collection. The newspaper clippings are sourced from other digital archives. If you have an question, please contact me, Christopher Crocker, at cwecrocker@mun.ca.
